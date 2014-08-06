@@ -1,0 +1,4 @@
+futils
+======
+
+Functional utilities.
